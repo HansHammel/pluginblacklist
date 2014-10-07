@@ -4,7 +4,7 @@
  * @version 1.0
  */
 /*
-Plugin Name: Plugins Blacklist
+Plugin Name: Plugin Blacklist
 Plugin URI: http://specialsolutions.de/
 Description: Checks for blacklisted plugins.
 Author: Oliver Bleckmann
